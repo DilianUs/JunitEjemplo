@@ -25,4 +25,9 @@ public class Calculadora {
     public int dividir(int numUno,int numDos){
         return numUno / numDos;
     }
+     public boolean mayorQue(int numUno,int numDos){
+         
+             return numUno >numDos;
+         
+    }
 }
